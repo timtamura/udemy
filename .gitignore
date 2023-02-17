@@ -1,2 +1,10 @@
+/.angular/cache 
+.angular/cache
+
 node_modules
 
+# IDE - VSCode  
+.vscode/*  
+
+# System Files  
+.DS_Store 
