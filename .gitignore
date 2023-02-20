@@ -1,8 +1,8 @@
 node_modules
-.angular/cache
+.angular
 
 # IDE - VSCode  
-.vscode/*  
+.vscode/* 
 
 # System Files  
 .DS_Store 
