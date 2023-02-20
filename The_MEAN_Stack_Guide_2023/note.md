@@ -1,17 +1,17 @@
-- Run the node.js server (server side)
+### Run the node.js server (server side)
 ```
 $ npm run start:server
 > mean-course@0.0.0 start:server
 > nodemon server.js
 ```
 
-- Run the Angular application (client side)
+### Run the Angular application (client side)
 ```
 $ ng serve
 ```                      
 the command must execute within the application folder. 
 
-- Connect the MongoDB 
+### Connect the MongoDB 
 $ mongosh "mongodb+srv://cluster0.ynquu.mongodb.net/test" --apiVersion 1 --username user1
 
 ````
