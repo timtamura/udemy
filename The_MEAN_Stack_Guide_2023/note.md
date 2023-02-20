@@ -11,10 +11,10 @@ $ ng serve
 ```                      
 the command must execute within the application folder. 
 
-### Connect the MongoDB 
+### Connect to the MongoDB 
+````
 $ mongosh "mongodb+srv://cluster0.ynquu.mongodb.net/test" --apiVersion 1 --username user1
 
-````
 Atlas atlas-104tdh-shard-0 [primary] test> use node-angular
 switched to db node-angular
 Atlas atlas-104tdh-shard-0 [primary] node-angular> help
